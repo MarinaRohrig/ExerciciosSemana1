@@ -1,4 +1,4 @@
-package M1S01;
+package Exercicio1;
 // Exercício 1 da semana 1 do FuturoDEV
 // Autor: Marina Larissa Carpes Röhrig
 
