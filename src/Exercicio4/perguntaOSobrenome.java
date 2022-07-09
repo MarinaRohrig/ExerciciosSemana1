@@ -1,7 +1,7 @@
 package Exercicio4;
 
 import java.util.Scanner;
-// O programa vai perguntar o último sobreome do usuário e exibir ele em maiúsculas e informar o número de letras
+// O programa vai perguntar o último sobrenome do usuário e exibir ele em maiúsculas e informar o número de letras
 // Autor: Marina Larissa Carpes Röhrig
 
 public class perguntaOSobrenome {
