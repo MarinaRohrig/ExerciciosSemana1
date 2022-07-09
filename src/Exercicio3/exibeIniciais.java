@@ -5,13 +5,14 @@ import java.util.Scanner;
 // Autor: Marina Larissa Carpes Röhrig
 public class exibeIniciais {
     public static void main(String[] args) {
+        // Declaração e inicialização do scanner
         Scanner scanner = new Scanner(System.in);
-
+        // Interação com o usuário e inicialização das variáveis string
         System.out.println("Olá! Informe o seu sobrenome, por gentileza: ");
         String sobrenome = scanner.nextLine();
         System.out.println("Agora informe o seu nome, por gentileza: ");
         String nome = scanner.nextLine();
-
+        // verificação das iniciais e conclusão
         System.out.printf("Obrigada pelas informações, %s %s. A primeira letra do seu nome é: %s, a do seu sobrenome é: %s",nome,sobrenome,nome.substring(0,1),sobrenome.substring(0,1));
     }
 }
