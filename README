@@ -1,0 +1,29 @@
+# FuturoDEV Exercícios da Semana
+
+Lista de exercícios realizados na primeira semana de julho de 2022. 08/07/22
+
+## Descrição:
+[M1S01] Ex 1 - Saudar o usuário
+Crie um programa em Java que, ao executar, escreva para o usuário uma saudação, contendo informações de “copyright” (quem desenvolveu a aplicação). Por exemplo: “Olá, esse programa foi escrito por Fulano.”.
+
+[M1S01] Ex 2 - Pergunte o nome do usuário
+Crie um programa em Java que, utilizando a classe Scanner, pergunte ao usuário seu sobrenome, depois seu nome, e então escreva na tela, em uma única “string”, o nome completo do usuário. Informe também ao usuário quantas letras tem no nome dele. Por exemplo: “Olá Fulano Silva, seu nome possui 11 letras.”.
+
+[M1S01] Ex 3 - Exiba as iniciais do usuário
+Você pode utilizar o código do exercício anterior para este exercício. Crie um programa em Java que, utilizando a classe Scanner, pergunte ao usuário seu sobrenome, depois seu nome, e então escreva na tela o nome completo do usuário, seguido por suas iniciais. Por exemplo: “Olá Fulano Silva, suas iniciais são F.S.”.
+
+[M1S01] Ex 4 - Pergunte o sobrenome
+Crie um programa em Java que pergunte ao usuário seu último sobrenome e em seguida exiba na tela o texto “Olá, X. Seu sobrenome contém y letras”, onde X é o sobrenome em letras maiúsculas, e y é a quantidade de letras desse sobrenome.
+
+[M1S01] Ex 5 - Pergunte 3 informações
+Crie um programa em Java que pergunte ao usuário: nome, idade e se gosta de praticar algum esporte. Crie 3 variáveis para guardar as respostas do usuário: uma deve receber um valor textual (string), outra deve receber um valor numérico (int), e outra um valor de verdadeiro ou falso (boolean). Faça com que esses 3 valores sejam exibidos de volta para o usuário.
+
+[M1S01] Ex 6 - Calcule a idade com base no ano
+Crie um programa em Java que faça 2 perguntas ao usuário: primeiro, pergunte o ano de nascimento. Depois, pergunte o ano atual. Em seguida, exiba na tela o texto “Sua idade é x ou y”, onde x é a idade do usuário caso ele já tenha feito aniversário neste ano, e y é a idade caso ele ainda não tenha aniversariado no ano corrente.
+
+
+----- Linguagem usada: JAVA -----
+
+### Autor
+- Marina
+
